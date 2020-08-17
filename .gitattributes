@@ -73,8 +73,14 @@
 *.avi filter=lfs diff=lfs merge=lfs -text
 *.fcpx filter=lfs diff=lfs merge=lfs -text
 *.mkv filter=lfs diff=lfs merge=lfs -text
+*.moef filter=lfs diff=lfs merge=lfs -text
+*.moti filter=lfs diff=lfs merge=lfs -text
+*.motn filter=lfs diff=lfs merge=lfs -text
+*.motr filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
+*.mpeg filter=lfs diff=lfs merge=lfs -text
+*.mpg filter=lfs diff=lfs merge=lfs -text
 *.webm filter=lfs diff=lfs merge=lfs -text
 
 
@@ -90,6 +96,13 @@
 *.pptx filter=lfs diff=lfs merge=lfs -text
 *.xls filter=lfs diff=lfs merge=lfs -text
 *.xlsx filter=lfs diff=lfs merge=lfs -text
+
+
+## Archives ##
+
+*.7zip filter=lfs diff=lfs merge=lfs -text
+*.rar filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
 
 
 ## Fonts ##
