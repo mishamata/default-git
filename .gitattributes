@@ -1,7 +1,3 @@
-### Default .gitattributes for My Projects ###
-### Compiled by Michelle Schnee (@tachicola) ###
-
-
 # Auto detect text files and perform LF normalization
 
 * text=auto
